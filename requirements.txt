@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+tk==0.1.0
+colorama==0.4.6
+httpx==0.28.1
+urllib3==2.2.3
+certifi>=2024.2.2
+idna>=3.7
+chardet>=5.2.0
